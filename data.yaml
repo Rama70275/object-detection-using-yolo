@@ -1,0 +1,6 @@
+train: "C:/Users/rk001/OneDrive/Desktop/project_obj/train/images"
+val: "C:/Users/rk001/OneDrive/Desktop/project_obj/valid/images"
+test: "C:/Users/rk001/OneDrive/Desktop/project_obj/test/images"
+
+nc: 5
+names: ['bicycle', 'bus', 'car', 'motorbike', 'person']

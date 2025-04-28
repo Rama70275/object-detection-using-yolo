@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibliography>
+  <entry id="Jocher2023">
+    <author>Jocher, G., et al.</author>
+    <title>YOLOv8: Cutting-Edge Real-Time Object Detection</title>
+    <publisher>Ultralytics</publisher>
+    <year>2023</year>
+  </entry>
+
+  <entry id="Terven2023">
+    <author>Terven, Juan and Diana Cordova-Esparza</author>
+    <title>A Comprehensive Review of YOLO: From YOLOv1 to YOLOv8 and Beyond</title>
+    <journal>arXiv preprint arXiv:2304.00501</journal>
+    <year>2023</year>
+  </entry>
+
+  <entry id="Khare2023">
+    <author>Khare, Om M., et al.</author>
+    <title>YOLOv8-Based Visual Detection of Road Hazards</title>
+    <journal>arXiv preprint arXiv:2311.00073</journal>
+    <year>2023</year>
+  </entry>
+
+  <entry id="Saini2023">
+    <author>Saini, H.</author>
+    <title>Real-Time Object Detection Using YOLOv8</title>
+    <publisher>Springer</publisher>
+    <year>2023</year>
+  </entry>
+
+  <entry id="Liu2024">
+    <author>Liu, W., et al.</author>
+    <title>YOLOv8-Based Traffic Monitoring and Vehicle Detection</title>
+    <journal>IEEE Transactions on Intelligent Transportation Systems</journal>
+    <year>2024</year>
+  </entry>
+
+  <entry id="Chen2024">
+    <author>Chen, Z., et al.</author>
+    <title>YOLOv8 for Medical Image Analysis: A Review and Case Study</title>
+    <journal>Journal of Biomedical Informatics</journal>
+    <year>2024</year>
+  </entry>
+
+  <entry id="Zhang2023">
+    <author>Zhang, H., et al.</author>
+    <title>Comparative Performance Analysis of YOLOv8 with Other Object Detectors</title>
+    <journal>MDPI Sensors</journal>
+    <year>2023</year>
+  </entry>
+
+  <entry id="Rahman2023">
+    <author>Rahman, M., et al.</author>
+    <title>Optimized YOLOv8 for Agricultural Pest Detection</title>
+    <journal>Computers and Electronics in Agriculture</journal>
+    <year>2023</year>
+  </entry>
+
+  <entry id="Gupta2023">
+    <author>Gupta, R., et al.</author>
+    <title>A Novel Approach for Small Object Detection Using YOLOv8</title>
+    <journal>IEEE Access</journal>
+    <year>2023</year>
+  </entry>
+
+  <entry id="Singh2023">
+    <author>Singh, A., et al.</author>
+    <title>YOLOv8-Based Face Detection in Low-Light Environments</title>
+    <journal>Pattern Recognition Letters</journal>
+    <year>2023</year>
+  </entry>
+
+  <entry id="Mendoza2023">
+    <author>Mendoza, J., et al.</author>
+    <title>Implementing YOLOv8 for Wildlife Conservation and Tracking</title>
+    <journal>Ecological Informatics</journal>
+    <year>2023</year>
+  </entry>
+
+  <entry id="Das2024">
+    <author>Das, S., et al.</author>
+    <title>YOLOv8-Based Security Surveillance for Anomaly Detection</title>
+    <journal>ACM Transactions on Intelligent Systems</journal>
+    <year>2024</year>
+  </entry>
+
+  <entry id="Krizhevsky2012">
+    <author>Krizhevsky, A., Sutskever, I., & Hinton, G.</author>
+    <title>ImageNet Classification with Deep Convolutional Neural Networks</title>
+    <journal>NeurIPS</journal>
+    <year>2012</year>
+  </entry>
+
+  <entry id="LeCun1998">
+    <author>LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P.</author>
+    <title>Gradient-Based Learning Applied to Document Recognition</title>
+    <journal>Proceedings of the IEEE</journal>
+    <year>1998</year>
+  </entry>
+
+  <entry id="Simonyan2014">
+    <author>Simonyan, K., & Zisserman, A.</author>
+    <title>Very Deep Convolutional Networks for Large-Scale Image Recognition</title>
+    <journal>arXiv preprint arXiv:1409.1556</journal>
+    <year>2014</year>
+  </entry>
+
+  <entry id="He2016">
+    <author>He, K., Zhang, X., Ren, S., & Sun, J.</author>
+    <title>Deep Residual Learning for Image Recognition</title>
+    <journal>CVPR</journal>
+    <year>2016</year>
+  </entry>
+
+  <entry id="Szegedy2015">
+    <author>Szegedy, C., et al.</author>
+    <title>Going Deeper with Convolutions</title>
+    <journal>CVPR</journal>
+    <year>2015</year>
+  </entry>
+
+  <entry id="Huang2017">
+    <author>Huang, G., et al.</author>
+    <title>Densely Connected Convolutional Networks</title>
+    <journal>CVPR</journal>
+    <year>2017</year>
+  </entry>
+
+  <entry id="Redmon2018">
+    <author>Redmon, J., & Farhadi, A.</author>
+    <title>YOLOv3: An Incremental Improvement</title>
+    <journal>arXiv preprint arXiv:1804.02767</journal>
+    <year>2018</year>
+  </entry>
+
+  <entry id="Howard2017">
+    <author>Howard, A. G., et al.</author>
+    <title>MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications</title>
+    <journal>arXiv preprint arXiv:1704.04861</journal>
+    <year>2017</year>
+  </entry>
+
+  <entry id="Tan2019">
+    <author>Tan, M., & Le, Q.</author>
+    <title>EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks</title>
+    <journal>ICML</journal>
+    <year>2019</year>
+  </entry>
+
+  <entry id="Liu2016">
+    <author>Liu, W., et al.</author>
+    <title>SSD: Single Shot MultiBox Detector</title>
+    <journal>ECCV</journal>
+    <year>2016</year>
+  </entry>
+
+  <entry id="Girshick2015">
+    <author>Girshick, R.</author>
+    <title>Fast R-CNN</title>
+    <journal>ICCV</journal>
+    <year>2015</year>
+  </entry>
+
+  <entry id="Ren2015">
+    <author>Ren, S., He, K., Girshick, R., & Sun, J.</author>
+    <title>Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks</title>
+    <journal>NeurIPS</journal>
+    <year>2015</year>
+  </entry>
+</bibliography>
